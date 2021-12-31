@@ -2,7 +2,7 @@ meow 👋
 
 I am passionate about contributing to new innovations of paradigms in everyday lives through technology 🤩
 
-Nowadays, I've been interested in 🥰
+Nowadays, I've been interested in
 - design patterns and principles (OOP)
 - functional programming (scala)
 - cloud native technologies (kubernetes, AWS)
