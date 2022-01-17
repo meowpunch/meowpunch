@@ -1,10 +1,11 @@
 meow 👋
 
-I am passionate about contributing to new innovations of paradigms in everyday lives through technology 🤩
+I have a passion and aspiration to contribute to creating new paradigms and values of life with technology 🤩
 
-Nowadays, I've been interested in Java 17, Graalvm and Project Loom
-- design patterns and principles (OOP)
-- functional programming (scala)
+I love to explore technologies across multiple perspectives. Nowadays, I am interested in:
+- JVM languages (java 17, scala, graalvm)
+- programming paradigms (functional, declarative, imperative)
+- design principles and patterns (in OOP)
 - cloud native technologies (kubernetes, AWS)
 - architectural patterns (microservices, event driven, hexagonal)
 - data engineering (kafka, spark, airflow)
