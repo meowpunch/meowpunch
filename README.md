@@ -1,6 +1,6 @@
-meow 👋
+Hi I'm Jinhoon 👋
 
-I have a passion and aspiration to contribute to creating new paradigms and values of life with technology 🤩
+I'm a customer-centric professional with strong analytical and problem-solving skills. I enjoy identifying and solving pain points for users, and I'm passionate about delivering exceptional customer experiences 💪🏼
 
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeowpunch)](https://hits.seeyoufarm.com) -->
